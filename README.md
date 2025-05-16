@@ -45,7 +45,7 @@
     <!-- Section: Connective Tissues -->
     <section class="bg-white p-6 rounded-lg shadow-md">
       <h2 class="text-xl font-semibold text-teal-800 mb-4">Cartilage, Ligaments & Bone Composition</h2>
-      <img src="https://matthewprovenchermd.com/wp-content/uploads/2016/10/Anatomy-1-600x429.jpg"alt="composición " width="300" height="200">![image](https://github.com/user-attachments/assets/f9c3a740-3bad-4a53-a915-163abdd50e1d)
+      <img src="https://matthewprovenchermd.com/wp-content/uploads/2016/10/Anatomy-1-600x429.jpg"alt="composición " width="300" height="200">
       <p class="text-gray-700 leading-relaxed">
         Ligaments are very flexible tissues that allow cushioning and protection between bones.
         Cartilage is a semi-rigid connective tissue that covers bone surfaces at joints,
